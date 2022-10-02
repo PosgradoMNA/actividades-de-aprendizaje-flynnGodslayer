@@ -4,3 +4,5 @@ Aqui estarán mis actividades de cada semana
 Ya se han ejecutado los modulos 1 y 2
 Se ha ejecutado el Modulo 3
 Ya se ha finalizado tambien el Modulo 4
+Se finalizo el modulo 5 y se adjunta certificado
+https://courses.cognitiveclass.ai/certificates/793de800d7bf4ee185e06ad03f59fe14
